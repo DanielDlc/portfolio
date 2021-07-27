@@ -1,7 +1,7 @@
 {
   "name": "Danieldlcportfolio",
   "version": "1.0.0",
-  "Homepage": "https://danieldlc.github.io/",
+  "Homepage": "public/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
