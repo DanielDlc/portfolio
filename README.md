@@ -28,7 +28,7 @@ Projetado e construido com:
 Pra rodar esse projeto, você deve clonar esse diretório.
 
 ```
-$ git clone https://github.com/williamjesusdev/portfolio.git
+$ git clone https://github.com/DanielDlc/portfolio
 $ cd portfolio
 ```
 
@@ -63,4 +63,4 @@ Serão implementados futuramente:
 - Form de contato
 - Slyder com Projetos
 - Animação das Tecnologias
-- Página 404
+
