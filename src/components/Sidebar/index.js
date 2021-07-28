@@ -11,7 +11,7 @@ import { ReactComponent as Works } from "../../assets/works.svg";
 import { ReactComponent as Contact } from "../../assets/contact.svg";
 
 import { ReactComponent as Facebook } from "../../assets/facebook.svg";
-import { ReactComponent as Instagram } from "../../assets/instagram.svg";
+// import { ReactComponent as Instagram } from "../../assets/instagram.svg";
 import { ReactComponent as Linkedin } from "../../assets/linkedin.svg";
 import { ReactComponent as Github } from "../../assets/github.svg";
 

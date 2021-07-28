@@ -1,7 +1,7 @@
 import React from "react";
 
 import TagsArea from "../../components/TagsArea";
-import LogoArea from "../../components/LogoArea";
+// import LogoArea from "../../components/LogoArea";
 import TextArea from "../../components/TextArea";
 
 export default function About() {
