@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+#REACT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanielDlc/Django/blob/main/LICENSE)
+
+## Portofio DanielDlc
+https://cranky-perlman-384d26.netlify.app/#/
 
 ## Available Scripts
 
