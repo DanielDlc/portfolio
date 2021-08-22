@@ -1,4 +1,4 @@
-#REACT
+# React
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanielDlc/Django/blob/main/LICENSE)
 
